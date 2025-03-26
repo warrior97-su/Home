@@ -1,8 +1,8 @@
 [
   {
     "icon": "Blog",
-    "name": "帅帅的博客",
-    "link": "https://boke.ssdxz.cn/"
+    "name": "无非风月的博客",
+    "link": "https://boke.wffy.cn/"
   },
   {
     "icon": "Cloud",
@@ -22,11 +22,11 @@
   {
     "icon": "Compass",
     "name": "三千雷动图床",
-    "link": "https://tc.ssdxz.cn/"
+    "link": "https://tc.wffy.cn/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://zdjc.ssdxz.cn/"
+    "link": "https://zdjc.wffy.cn/"
   }
 ]
