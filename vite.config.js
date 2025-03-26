@@ -118,6 +118,5 @@ export default ({ mode }) =>
           pure_funcs: ["console.log"],
         },
       },
-      outDir:'docs'
     },
   });
